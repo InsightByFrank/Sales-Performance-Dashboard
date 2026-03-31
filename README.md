@@ -1,5 +1,6 @@
 # 📊 Sales Performance Dashboard
-<img width="1336" height="927" alt="Screenshot 2025-08-18 134554" src="https://github.com/user-attachments/assets/569afe97-0faf-4a4b-86fe-9f2c6bd1cde5" />
+<img width="1528" height="971" alt="Screenshot 2025-08-18 134611" src="https://github.com/user-attachments/assets/789a5d55-a0c2-4abf-a84c-704ff604d747" />
+
 
 
 ## 🚀 Overview  
